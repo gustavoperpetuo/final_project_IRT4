@@ -1,0 +1,12 @@
+---
+title: "Draft Markdown"
+author: "Gustavo Perpetuo"
+date: "5/4/2021"
+output: pdf_document
+---
+
+## Libraries
+```{r}
+library(tidyverse)
+```
+
